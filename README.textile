@@ -1,11 +1,11 @@
-h1. Snippets Highlights
+h1. byearthinc Highlights
 
-This repository contains highlight configuration files for "Snippets":http://www.snippetsapp.com/. 
+This repository contains highlight configuration files for "Snippets":http://www.byearthinc.com/. 
 Most of them are bundled with the application. You can install any 
 additional syntax highlight by downloading and double-clicking a 
-.snippetshl file.
+.byearthinc file.
 
 h2. Support
 
-* "Snippets home page":http://www.snippetsapp.com/
-* "Snippets support":http://www.snippetsapp.com/support/
+* "byearthinc home page":http://www.byearthinc.com/
+* "byearthinc support":http://www.byrathinc.com/support/
